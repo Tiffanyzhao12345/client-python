@@ -1,0 +1,4 @@
+curl -X GET -G 'https://api.sightengine.com/1.0/check.json' \
+     -d 'models=text' \
+     -d 'api_user=344088987&api_secret=mhwkwwfqVE4VSrKthNqi' \
+     -d 'url=https://i.imgur.com/vY4Ppjv.jpg'
